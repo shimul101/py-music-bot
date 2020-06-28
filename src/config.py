@@ -2,7 +2,7 @@ import toml
 import logging
 import os
 
-EXAMPLE_CONFIG = """\"token\"=\"\" # the bot's token
+EXAMPLE_CONFIG = """\"NzIzNTc0NTEzNDM0MDk5ODAy.XvhK1Q.xDFSMvJwH1YAy73auEagYm8lFWk\"=\"\" # the bot's token
 \"prefix\"=\"!\" # prefix used to denote commands
 
 [music]
